@@ -2,4 +2,6 @@ dummy changes
 
 new changes
 
-additional changes
+additional change
+
+added new change
