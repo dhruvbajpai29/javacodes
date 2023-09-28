@@ -2,5 +2,6 @@ dummy changes
 
 new changes
 
+additional change
 
-added new change2
+added new change
